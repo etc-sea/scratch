@@ -1,2 +1,2 @@
-# scratch
-pentru orice fel de experiment
+# sall
+*pentru orice fel de experiment*
